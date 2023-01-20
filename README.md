@@ -1,5 +1,5 @@
-# Portfolio with Bootstrap
-Repository for my Web Development Portfolio using Bootstrap
+# Calendar Scheduler
+Calendar application that allows the user to save events for each hour of the day.
 
 ![badmath](https://img.shields.io/badge/HTML-62%25-%23e34c26)&nbsp;&nbsp;&nbsp;![badmath](https://img.shields.io/badge/CSS-38%25-%23563d7c)
 
@@ -7,16 +7,26 @@ Repository for my Web Development Portfolio using Bootstrap
 ## Installation
 
 No installation is required.
-Click [here](https://lorettarehm.github.io/Bootstrap-Portfolio/) to access the page.
+Click [here](https://lorettarehm.github.io/CalendarScheduler/) to access the page.
 
-## Usage 
-The portfolio webpage includes a navigation bar, a header image, and cards featuring complete project and placeholders for future projects.
-![The portfolio webpage includes a navigation bar, a header image, and cards featuring complete project and placeholders for future projects.](./assets/images/Bootstrap-Portfolio.png)
+## Usage
+
+### User Story
+```md
+    AS AN employee with a busy schedule
+    I WANT to add important events to a daily planner
+    SO THAT I can manage my time effectively
+```
+
+### Demo
+The following animation demonstrates the application functionality:
+
+![A user clicks on slots on the color-coded calendar and edits the events.](./assets/images/Calendar-Scheduler-Demo.gif)
 
 ## Credits
 
 * Trilogy Education Services
-* [Bootstrap docs](https://getbootstrap.com/docs/4.0/)
 * [mdn Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [moment.js](https://momentjs.com/docs)
 
 ## [License](./LICENSE)
