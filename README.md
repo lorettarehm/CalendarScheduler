@@ -1,7 +1,7 @@
 # Calendar Scheduler
 Calendar application that allows the user to save events for each hour of the day.
 
-![badmath](https://img.shields.io/badge/HTML-62%25-%23e34c26)&nbsp;&nbsp;&nbsp;![badmath](https://img.shields.io/badge/CSS-38%25-%23563d7c)
+![badmath](https://img.shields.io/badge/JavaScript-44%25-%23f1e05a)&nbsp;&nbsp;&nbsp;![badmath](https://img.shields.io/badge/HTML-33%25-%23e34c26)&nbsp;&nbsp;&nbsp;![badmath](https://img.shields.io/badge/CSS-23%25-%23563d7c)
 
 ---
 ## Installation
